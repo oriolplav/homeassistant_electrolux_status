@@ -1,14 +1,14 @@
 # Home Assistant Electrolux Care Integration (Not Official)
 
-[![Validate with HACS](https://github.com/albaintor/homeassistant_electrolux_status/actions/workflows/hacs.yml/badge.svg)](https://github.com/albaintor/homeassistant_electrolux_status/actions/workflows/hacs.yml)
-[![Validate with hassfest](https://github.com/albaintor/homeassistant_electrolux_status/actions/workflows/hassfest.yml/badge.svg)](https://github.com/albaintor/homeassistant_electrolux_status/actions/workflows/hassfest.yml)
+[![Validate with HACS](https://github.com/oriolplav/homeassistant_electrolux_status/actions/workflows/hacs.yml/badge.svg)](https://github.com/oriolplav/homeassistant_electrolux_status/actions/workflows/hacs.yml)
+[![Validate with hassfest](https://github.com/oriolplav/homeassistant_electrolux_status/actions/workflows/hassfest.yml/badge.svg)](https://github.com/oriolplav/homeassistant_electrolux_status/actions/workflows/hassfest.yml)
 
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=albaintor_homeassistant_electrolux_status&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=albaintor_homeassistant_electrolux_status)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=albaintor_homeassistant_electrolux_status&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=albaintor_homeassistant_electrolux_status)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=albaintor_homeassistant_electrolux_status&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=albaintor_homeassistant_electrolux_status)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=oriolplav_homeassistant_electrolux_status&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=oriolplav_homeassistant_electrolux_status)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=oriolplav_homeassistant_electrolux_status&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=oriolplav_homeassistant_electrolux_status)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=oriolplav_homeassistant_electrolux_status&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=oriolplav_homeassistant_electrolux_status)
 
 ## ⚠️ This new integration is based on new APIs and may be unstable. Use it at your own risks 
-As the former project has been deleted, you will need to delete the existing HACS integration and add a new repository in HACS : https://github.com/albaintor/homeassistant_electrolux_status
+As the former project has been deleted, you will need to delete the existing HACS integration and add a new repository in HACS : https://github.com/oriolplav/homeassistant_electrolux_status
 
 If you are interested in contributing to the project and assisting with the integration of the new APIs, your contributions are more than welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
