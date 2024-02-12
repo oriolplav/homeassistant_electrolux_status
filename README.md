@@ -1,13 +1,13 @@
 # Home Assistant Electrolux Care Integration V2 (Not Official)
 
-[![Validate with HACS](https://github.com/albaintor/homeassistant_electrolux_status/actions/workflows/hacs.yml/badge.svg)](https://github.com/albaintor/homeassistant_electrolux_status/actions/workflows/hacs.yml)
-[![Validate with hassfest](https://github.com/albaintor/homeassistant_electrolux_status/actions/workflows/hassfest.yml/badge.svg)](https://github.com/albaintor/homeassistant_electrolux_status/actions/workflows/hassfest.yml)
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/albaintor)
+[![Validate with HACS](https://github.com/oriolplav/homeassistant_electrolux_status/actions/workflows/hacs.yml/badge.svg)](https://github.com/oriolplav/homeassistant_electrolux_status/actions/workflows/hacs.yml)
+[![Validate with hassfest](https://github.com/oriolplav/homeassistant_electrolux_status/actions/workflows/hassfest.yml/badge.svg)](https://github.com/oriolplav/homeassistant_electrolux_status/actions/workflows/hassfest.yml)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/oriolplav)
 
 ## This new integration is based on new APIs and may be unstable 
 As the former project has been deleted, you will need to delete the existing HACS integration and :
 - Searech for "Electrolux Care Integration V2 (Not Official)" in HACS
-- Or add a new repository in HACS : https://github.com/albaintor/homeassistant_electrolux_status
+- Or add a new repository in HACS : https://github.com/oriolplav/homeassistant_electrolux_status
 
 If you are interested in contributing to the project and assisting with the integration of the new APIs, your contributions are more than welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
@@ -59,7 +59,7 @@ All devices need configured and Alias set (otherwise the home assistant integrat
 
 ## Installation
 1. Click install.
-2. In the HA UI go to "Configuration" -> "Integrations" click "+" and search for "Electrolux status". If you can't find it, add a personalized depot in HACS > Integrations > 3 dots button on the right and type in https://github.com/albaintor/homeassistant_electrolux_status
+2. In the HA UI go to "Configuration" -> "Integrations" click "+" and search for "Electrolux status". If you can't find it, add a personalized depot in HACS > Integrations > 3 dots button on the right and type in https://github.com/oriolplav/homeassistant_electrolux_status
 3. Insert the Electrolux Care Application credentials
 
 ## Disclaimer
